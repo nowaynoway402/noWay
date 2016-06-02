@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">No way? No way!</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="buildings">
+        <item>--none--</item>
+        <item>IFE</item>
+        <item>FTIMS</item>
+        <item>WEEIA</item>
+        <item>Mechaniczny</item>
+        <item></item>
+    </string-array>
+
+    <string name="helpButton">Help</string>
+    <string name="aboutButton">About</string>
+    <string name="search">Search building</string>
+    <string name="mapButton">Map</string>
+    <string name="pick1">Choose start point</string>
+    <string name="pick2">Choose destination</string>
+    <string name="no_way_no_way">No way? No way!</string>
+    <string name="Help">Useful contacts</string>
+    <string name="bon_42_631_28_87">BON - 42 631 28 87</string>
+    <string name="to_use_our_application_just_simply_tap_the_option_you_want_in_menu_and_then_choose_from_the_menu_the_option_you_woud_like_to_use">To use our application just simply tap the option you want in menu and then choose from the menu the option you woud like to use</string>
+    <string name="how_to_navigate">How to navigate</string>
+    <string name="witold_845_217_956">Witold 845 217 956</string>
+    <string name="kamil_385_412_958">Kamil 385 412 958</string>
+    <string name="bon_adm_p_lodz_pl">bon@adm.p.lodz.pl</string>
+    <string name="jakub_458_623_578">Jakub 458 623 578</string>
+    <string name="malwina_965_218_854">Malwina 965 218 854</string>
+    <string name="the_only_woman_in_our_group_beautiful_and_peaceful_person_who_is_never_giving_up_when_it_comes_to_reaching_goals_s_she_has_got_millions_of_ideas_per_minute_and_always_finds_a_solution_to_the_problem">The only woman in our group. Beautiful and peaceful person who is never giving up when it comes to reaching goals. S She has got millions of ideas per minute and always finds a solution to the problem</string>
+    <string name="football_player_dancer_and_a_person_for_who_impossible_is_nothing_the_guy_who_must_have_some_activity_to_do_all_the_time_his_passion_for_programming_in_unbelievable_always_ready_to_help_others">Football player, dancer and a person for who impossible is nothing. The guy who must have some activity to do all the time. His passion for programming in unbelievable. Always reays ready to help othrs</string>
+    <string name="football_player_dancer_and_person_for_who_impossible_is_nothing_the_guy_who_must_have_some_activity_to_do_all_the_time_his_passion_for_programming_is_unbelievable_always_ready_to_help_others">Football player, dancer and person for who impossible is nothing. The guy who must have some activity to do all the time. His passion for programming is unbelievable. Always ready to help others.</string>
+    <string name="jakub">Jakub</string>
+
+</resources>

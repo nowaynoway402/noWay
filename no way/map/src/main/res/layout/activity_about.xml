@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    style="@style/ScrollView"
+    android:background="#c4f5ff" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+    <EditText
+        android:textSize="18dp"
+        android:textColor="#666666"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText10"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="The application was made as our solution to the problem given during PBL classes which was &apos;University with no mobility barriers&apos;." />
+
+    <EditText
+        android:textSize="17dp"
+        android:textColor="#01337a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Malwina"
+        android:ems="10"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:id="@+id/editText11" />
+
+    <EditText
+        android:textSize="15sp"
+        android:textColor="#01337a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText12"
+        android:layout_gravity="center_horizontal"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="The only woman in our group. Beautiful and peaceful person who is never giving up when it comes to reaching goals. She has got millions of ideas per minute and always finds solution to a problem. " />
+
+    <EditText
+        android:textSize="17dp"
+        android:textColor="#01337a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Kamil"
+        android:ems="10"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:id="@+id/editText17" />
+
+    <EditText
+        android:textSize="15sp"
+        android:textColor="#01337a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText18"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="IT guy who loves music. All the time when he is programming music is playing in his headphones. He loves finding unconventional solutions which for some people may seem irrational. " />
+
+    <EditText
+        android:textSize="17dp"
+        android:textColor="#01337a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Witold"
+        android:ems="10"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:id="@+id/editText13" />
+
+    <EditText
+        android:textSize="15sp"
+        android:textColor="#01337a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText14"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="A person who hates delaying everything. He prefers to do the task as quick as possible to be able to have some time to make improvements. He possess good planning skills." />
+
+    <EditText
+        android:textSize="17dp"
+        android:textColor="#01337a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Jakub"
+        android:ems="10"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:id="@+id/editText15" />
+
+    <EditText
+        android:textSize="15sp"
+        android:textColor="#01337a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText16"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="Football player, dancer and person for whom impossible is nothing. The guy who must have some activity to do all the time. His passion for programming is unbelievable. Always ready to face new challenges. " />
+
+
+
+
+</LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
