@@ -4,11 +4,26 @@
 
     <string-array name="buildings">
         <item>--none--</item>
-        <item>IFE</item>
-        <item>FTIMS</item>
-        <item>WEEIA</item>
-        <item>Mechaniczny</item>
-        <item></item>
+        <item>A1 - New WIPOS</item>
+        <item>A2 - BINOZ</item>
+        <item>A10 - WEEIA</item>
+        <item>A16 - IFE</item>
+        <item>A18 - Factory of XXI Century Engineers</item>
+        <item>A19 - Soltan Auditorium</item>
+        <item>A22 - Faculty of Mechanical Engineering</item>
+        <item>A27 - Faculty of Chemistry</item>
+        <item>A30 - BON</item>
+        <item>A33 - WTMIWT</item>
+        <item>B1 - Rectors Office</item>
+        <item>B7 - BAIS</item>
+        <item>B9 - FTIMS(Lodex)</item>
+        <item>B10 - WIPOS</item>
+        <item>B14-B15 - Institute of Physics</item>
+        <item>B17 - IPIP</item>
+        <item>B18 - BMCS</item>
+        <item>B19 - CTI</item>
+        <item>B22 - Library</item>
+        <item>B24 - Language Centre</item>
     </string-array>
 
     <string name="helpButton">Help</string>
