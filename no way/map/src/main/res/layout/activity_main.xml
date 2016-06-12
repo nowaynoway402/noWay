@@ -23,26 +23,12 @@
         android:text="@string/mapButton"
         android:textSize="15sp"
         android:id="@+id/mapButton"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        android:textAllCaps="false"
-        android:layout_marginTop="100dp"
-        android:textColor="#0047ab"
-        android:onClick="setupMapButton" />
-
-    <Button
-        android:background="@drawable/buttons"
-        android:layout_width="150dp"
-        android:layout_height="wrap_content"
-        android:text="@string/search"
-        android:textSize="15sp"
-        android:id="@+id/buildingButton"
-        android:layout_below="@id/mapButton"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="10dp"
         android:textAllCaps="false"
         android:textColor="#0047ab"
-        android:onClick="setupSearchButton" />
+        android:onClick="setupMapButton"
+        android:layout_above="@+id/aboutButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="25dp" />
 
     <Button
         android:background="@drawable/buttons"
@@ -51,12 +37,12 @@
         android:text="@string/aboutButton"
         android:textSize="15sp"
         android:id="@+id/aboutButton"
-        android:layout_below="@+id/buildingButton"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="10dp"
         android:textAllCaps="false"
         android:textColor="#0047ab"
-        android:onClick="setupAboutButton" />
+        android:onClick="setupAboutButton"
+        android:layout_above="@+id/helpButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="25dp" />
 
     <Button
         android:background="@drawable/buttons"
@@ -65,11 +51,11 @@
         android:text="@string/helpButton"
         android:textSize="15sp"
         android:id="@+id/helpButton"
-        android:layout_below="@+id/aboutButton"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="10dp"
         android:textAllCaps="false"
         android:textColor="#0047ab"
-        android:onClick="setupHelpButton" />
+        android:onClick="setupHelpButton"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="90dp" />
 
 </RelativeLayout>
